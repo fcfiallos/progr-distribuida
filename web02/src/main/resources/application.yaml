@@ -6,4 +6,4 @@ db:
   connection:
     url: jdbc:postgresql://localhost:5432/books
     username: postgres
-    password: labcom,2015
+    password: root

@@ -18,8 +18,6 @@ dependencies {
     //runtime solo para la bd ya que no se necesita un jdk
     //binsutils es un implementacion que se necesita de esa forma
     //los driver para
-    //implementation("org.apache.commons:commons-collections4:4.5.0")
-
 }
 
 tasks.test {
